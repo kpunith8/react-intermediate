@@ -1,2 +1,4 @@
-# react-intermediate
-React intermediate turorials by Level Up tutorials - Creating re-usable modal and other advanced concepts
+## Libraries used
+- styled-components
+
+- Add .env file to root folder and add this `NODE_PATH=src`, which makes src as root folder, and lets import thing in files specifying relatively
